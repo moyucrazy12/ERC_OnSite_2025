@@ -40,6 +40,6 @@ Presentation Video: https://www.youtube.com/watch?v=TbBJTeVG7Tk
 
 *Rover Overview Image*
 
-![Visual Odometry](./images_ERC2025/VisualOdometry.png)
+![Visual Odometry](./images_ERC2025/VisualOdom.png)
 
 *Visual Odometry*
