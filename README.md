@@ -1,4 +1,4 @@
-# 🚀 Autonomous Illariy Rover – European Rover Challenge 2025
+# Autonomous Illariy Rover – European Rover Challenge 2025
 
 This repository contains key modules developed for the **autonomous navigation system** of a custom-built rover for the **European Rover Challenge – On-Site Edition 2025**, as part of the LABMAN team at PUCP.
 
@@ -20,7 +20,7 @@ Presentation Video: https://www.youtube.com/watch?v=TbBJTeVG7Tk
 
 ---
 
-## 🧰 Tech Stack & Hardware
+## Tech Stack & Hardware
 
 - ROS 2 (Humble)
 - Intel RealSense D455
@@ -31,3 +31,9 @@ Presentation Video: https://www.youtube.com/watch?v=TbBJTeVG7Tk
 - Python & C++
 
 ---
+
+## Rover Overview
+
+![Rover Overview](./images_ERC2025/rover_overview.jpg)
+
+*Rover Overview Image*
